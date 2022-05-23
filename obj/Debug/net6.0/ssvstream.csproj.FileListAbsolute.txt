@@ -1,0 +1,15 @@
+E:\ProjetosDev\ssvstream\bin\Debug\net6.0\ssvstream.exe
+E:\ProjetosDev\ssvstream\bin\Debug\net6.0\ssvstream.deps.json
+E:\ProjetosDev\ssvstream\bin\Debug\net6.0\ssvstream.runtimeconfig.json
+E:\ProjetosDev\ssvstream\bin\Debug\net6.0\ssvstream.dll
+E:\ProjetosDev\ssvstream\bin\Debug\net6.0\ssvstream.pdb
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.csproj.AssemblyReference.cache
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.AssemblyInfoInputs.cache
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.AssemblyInfo.cs
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.csproj.CoreCompileInputs.cache
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.dll
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\refint\ssvstream.dll
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.pdb
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ssvstream.genruntimeconfig.cache
+E:\ProjetosDev\ssvstream\obj\Debug\net6.0\ref\ssvstream.dll
